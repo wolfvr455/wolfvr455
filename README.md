@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @wolfvr455
-- 👀 I’m interested in gorilla tag and making games on scratch.
-- 🌱 I’m currently learning maths, are hard to me.
-- 💞️ I’m looking to collaborate with jmancurly.
-- 📫 How to reach me probably on gorilla tag, youtube or discord
-- 😄 Best friend: obviously ReubenVr 
+- 👀 I’m interested in gorilla tag and making games on unity or others.
+- 🌱 I’m currently making games and stuff like that.
+- 💞️ I’m looking to make a famous game.
+- 📫 How to reach me probably on gorilla tag, youtube or discord.
 - ⚡ Fun fact: im spanish Ñ
 
 <!---
